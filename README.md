@@ -75,7 +75,7 @@ Its main sections include:
 - **Optimization:** Initiate and monitor Bayesian Optimization runs.
 - **Results:** Explore evaluated candidates, compare their properties, and inspect the best-performing design.
 
-![DESIGN_LAB](design_lab.png)
+![DESIGN_LAB](images/design_lab.png)
 
 ## Project Structure
 
@@ -190,9 +190,9 @@ The results interface provides:
 - Best-performing candidate identification.
 - Optimization history and performance visualization.
 
-![OPTIMIZATION_RESULT](optimizaton_result.png)
+![OPTIMIZATION_RESULT](images/optimizaton_result.png)
 
-![CANDIDATE_COMPARSION](candidate_comparison.png)
+![CANDIDATE_COMPARSION](images/candidate_comparison.png)
 
 ## Limitations and Future Work
 
