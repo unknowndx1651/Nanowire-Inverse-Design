@@ -190,7 +190,7 @@ The results interface provides:
 - Best-performing candidate identification.
 - Optimization history and performance visualization.
 
-![OPTIMIZATION_RESULT](images/optimizaton_result.png)
+![OPTIMIZATION_RESULT](images/optimization_result.png)
 
 ![CANDIDATE_COMPARSION](images/candidate_comparison.png)
 
